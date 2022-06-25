@@ -1,2 +1,2 @@
-# interview-prep
+# Interview-Preparation
 Ace your coding interviews 
